@@ -1,0 +1,5 @@
+"material_code","material_name","material_type","needed_material","current_stock","safe_stock","shortage_qty","shortage_warning"
+M001,实木板材,原料,120.00,120,80,0.00,库存充足
+M002,海绵,原料,20.00,65,50,-45.00,库存充足
+M003,布艺面料,原料,62.50,90,60,-27.50,库存充足
+M004,五金配件,原料,390.00,420,200,-30.00,库存充足
